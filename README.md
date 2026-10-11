@@ -1,0 +1,1 @@
+# frustrated-spin-plaquette
